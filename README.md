@@ -1,6 +1,6 @@
 👍Merhaba Ben Baha Baltacı Gazi Mustafa Kemal Ortaokulunda 8. Sınıf Öğrencisiyim.
 Kendimi Frontend ve Backend Alanında Geliştirmeye Çalışıyorum Aynı Zamanda Web Geliştiriyorum.
-🕜Şuan Aktif Olarak PHP Öğreniyorum. HTML CSS Javascript PHP kullanarak bir Web Sitesi Geliştiriyorum.
+🕜HTML CSS Javascript PHP kullanarak bir Web Sitesi Geliştirdim Ve Sitemin Adı https://codexnook.com Siteme Üye Olabilirsiniz.
 💻İleride bir yazılım Mühendisi Olmak İstiyorum.
 🏫Üniversiteyi ODTÜ Bilgisayar Mühendisliği bölümünde okumayı istiyorum ve çok çalışırsam başaracağıma inanıyorum.
 
